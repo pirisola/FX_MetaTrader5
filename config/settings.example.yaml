@@ -1,0 +1,14 @@
+mt5:
+  login: 99453112
+  password: "@vDlJ8Ee"
+  server: "MetaQuotes-Demo"
+symbols:
+  - "EURUSD"
+timeframe: "M5"
+risk_fraction: 0.005
+sl_pips: 20
+tp_pips: 30
+spread_max: 30
+long_threshold: 0.55
+short_threshold: 0.45
+daily_loss_cap: 0.02

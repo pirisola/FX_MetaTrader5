@@ -1,0 +1,9 @@
+MetaTrader5
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+ta
+pyyaml
+joblib
